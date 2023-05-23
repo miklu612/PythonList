@@ -4,6 +4,10 @@ This is a really simple list library. It implements a list-like object with
 recursion, but it doesn't use recursion, so there are no worries about it 
 hitting the recursion limit. 
 
+You might be asking what the advantage of this is over the normal list type that
+python provides. The answer to that is, nothing. You should just use the normal 
+list types. 
+
 ## Examples
 
 ```python
